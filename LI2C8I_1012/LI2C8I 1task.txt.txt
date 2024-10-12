@@ -1,0 +1,8 @@
+1. git satus - állapot ellenőrzés
+2. git add "Neptunkód_1012" - feltöltés vagy ha több fájl van benne, akkor 
+3. git add "Neptunkód_1012/*
+4. git commit -m "3 fájl mentes" - fel commitoltuk a stage-re
+
+feltöltés 
+
+git push - majd frissítés
